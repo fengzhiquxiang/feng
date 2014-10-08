@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-## Ruby China 888888888
+## Ruby China 6666666
 
 This is the source code of [Ruby China](http://ruby-china.org) website.
 
