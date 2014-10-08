@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Ruby China
 
 This is the source code of [Ruby China](http://ruby-china.org) website.
@@ -83,3 +84,7 @@ Copyright (c) 2011-2014 Ruby China
 Released under the MIT license:
 
 * [www.opensource.org/licenses/MIT](http://www.opensource.org/licenses/MIT)
+=======
+feng
+====
+>>>>>>> 5da911cc3424349f8a399bf52015f727fea7f04c
